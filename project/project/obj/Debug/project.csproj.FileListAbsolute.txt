@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\JAVA\project\project\bin\Debug\project.exe.config
+C:\Users\Administrator\Desktop\JAVA\project\project\bin\Debug\project.exe
+C:\Users\Administrator\Desktop\JAVA\project\project\bin\Debug\project.pdb
+C:\Users\Administrator\Desktop\JAVA\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\JAVA\project\project\obj\Debug\project.exe
+C:\Users\Administrator\Desktop\JAVA\project\project\obj\Debug\project.pdb
